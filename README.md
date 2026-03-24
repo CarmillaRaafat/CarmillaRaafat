@@ -11,7 +11,7 @@
 ---
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamw3bTUycXY3anY1MTJ6NnBwdzdnMDE5c2pkM3B0MXhtZTl0eHh6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5pTznsj3cwsyQ/giphy.gif" width="400"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExamw3bTUycXY3anY1MTJ6NnBwdzdnMDE5c2pkM3B0MXhtZTl0eHh6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5pTznsj3cwsyQ/giphy.gif" width="300"/>
 </div>
 
 ---
@@ -45,12 +45,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://64.media.tumblr.com/eb1ebea1d00c1947984d814481e4df03/tumblr_po8rm0huoO1rsgw6y_500.gif" width="500"/>
-</div>
-
----
-
 ## 🩸 𝕮𝖔𝖓𝖙𝖆𝖙𝖔
 
 <div align="center">
@@ -70,6 +64,11 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=erisraafat&style=flat-square&color=8B0000"/>
+</div>
+
+
+<div align="center">
+  <img src="https://64.media.tumblr.com/eb1ebea1d00c1947984d814481e4df03/tumblr_po8rm0huoO1rsgw6y_500.gif" width="500"/>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:000000,100:8B0000&section=footer"/>
